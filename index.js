@@ -1,4 +1,4 @@
-var URLGeoShapes = "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/nycd/FeatureServer/0/query?where=1=1&outFields=*&outSR=4326&f=geojson";
+var URLGeoShapes = "https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/ArcGIS/rest/services/NYC_Community_Districts/FeatureServer/0/query?where=1=1&outFields=*&outSR=4326&f=geojson";
 
 
 var arrAffor = [8, 161, undefined, 116, 186, 0, 0, 607, 187, 712, 183, undefined, 0, 1353, 0, 434, undefined, 929, 401, 463, 0, 0, undefined, 630, 170, undefined, 186, 1, 0, 332, 1116, 0, 0, undefined, 38, undefined, 475, 51, 265, 559, 112, undefined, 0, undefined, 0, 0, 45, 47, 105, 213, undefined, 478, 75, undefined, 58, 0, 540, undefined, 725, 348, 13, 354, 0, 160, 0, 0, 727, 0, 67, 0, 17];
